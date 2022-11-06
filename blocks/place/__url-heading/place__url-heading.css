@@ -1,0 +1,12 @@
+.place__url-heading {
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  color: #aaa;
+}
+
+@media screen and (max-width: 970px) {
+  .place__item {
+    line-height: 12px;
+  }
+}
